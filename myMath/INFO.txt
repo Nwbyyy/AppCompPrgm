@@ -1,0 +1,1 @@
+A math class I made for a final project in class, simple stuff
